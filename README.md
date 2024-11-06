@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Rhuan 👋
 
-<!--
-**rhuan-kowic/rhuan-kowic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este ano, concluí minha graduação em **Análise e Desenvolvimento de Sistemas** pela **UNILAVRAS**, e estou animado para aplicar e expandir meus conhecimentos em desenvolvimento de software e tecnologias de ponta.
 
-Here are some ideas to get you started:
+## 💻 Tecnologias
+<div style="display: inline_block">
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 O que estou buscando
+Atualmente, estou sempre à procura de novas oportunidades e desafios que me permitam aprender mais e contribuir com projetos significativos.
+
+---
+![](https://github-readme-stats.vercel.app/api?username=rhuan-kowic&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=rhuan-kowic&langs&theme=radical)
