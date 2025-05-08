@@ -45,7 +45,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com formação em Análise e Des
 ## 📬 Contato
 
 * [**Email**](mailto:dev.rhuankowic@gmail.com)
-* [**LinkedIn**](www.linkedin.com/in/rhuan-kowic-santos)
+* [**LinkedIn**](https://www.linkedin.com/in/rhuan-kowic-santos)
 
 ---
 
