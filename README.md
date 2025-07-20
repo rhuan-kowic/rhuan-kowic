@@ -1,25 +1,25 @@
 # 👋 Olá! Eu sou Rhuan Kowic Santos
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela [Unilavras](https://www.unilavras.edu.br/).  
-📱 Estudando **Desenvolvimento Mobile com Flutter**.
+💻 Estudando Desenvolvimento Web Full Stack, com foco em tecnologias modernas para front-end e back-end.
 
 ## 🚀 Sobre mim
 
-Estou focado em aprender e construir projetos com **Flutter** e **Dart**, buscando sempre melhorar minhas habilidades e acompanhar as melhores práticas do mercado.
+Sou apaixonado por tecnologia e estou focado em construir aplicações web completas, do front-end ao back-end. Estudo constantemente para evoluir minhas habilidades e acompanhar as melhores práticas do mercado.
 
 ## 🧠 Atualmente estudando:
-- Dart: Sintaxe, POO, Widgets e Boas Práticas
-- Flutter: UI, navegação, gerenciamento de estado e consumo de APIs
-- Projetos guiados para fixar os conceitos de forma prática
 
+  - Front-end: HTML, CSS, JavaScript, TypeScript, React
+
+  - Back-end: Java (Spring Boot), Node.js (Express)
+
+  - APIs RESTful, banco de dados (MySQL, PostgreSQL) e autenticação
+
+  - Boas práticas de desenvolvimento, como Clean Code, SOLID e testes automatizados
 ## 🛠️ Tecnologias e Ferramentas
 
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=50" alt="java logo"  />
