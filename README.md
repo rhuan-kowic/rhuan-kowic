@@ -1,21 +1,29 @@
 # 👋 Olá! Eu sou Rhuan Kowic Santos
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela [Unilavras](https://www.unilavras.edu.br/).  
+
+📚 Pós-graduando em Engenharia de Software pela PUC Minas (em andamento).
+
 💻 Estudando Desenvolvimento Web Full Stack, com foco em tecnologias modernas para front-end e back-end.
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e estou focado em construir aplicações web completas, do front-end ao back-end. Estudo constantemente para evoluir minhas habilidades e acompanhar as melhores práticas do mercado.
+Sou apaixonado por tecnologia e desenvolvimento de software.
+Meu foco é criar aplicações web completas, com código limpo, arquitetura escalável e boas práticas de mercado.
+Atualmente, estou aprofundando meus conhecimentos em front-end moderno, back-end robusto e engenharia de software.
 
-## 🧠 Atualmente estudando:
+
+
+📚 Atualmente estudando
 
   - Front-end: HTML, CSS, JavaScript, TypeScript, React
 
-  - Back-end: Java (Spring Boot), Node.js (Express)
+  - Back-end: Node.js (Express)
 
-  - APIs RESTful, banco de dados (MySQL, PostgreSQL) e autenticação
+  - Banco de Dados: MySQL, PostgreSQL
 
-  - Boas práticas de desenvolvimento, como Clean Code, SOLID e testes automatizados
+  - Práticas: Clean Code, SOLID, Testes Automatizados, APIs RESTful
+
 ## 🛠️ Tecnologias e Ferramentas
 
 
